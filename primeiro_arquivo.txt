@@ -1,0 +1,15 @@
+Git é um sistema de controle de versões.
+
+Principais comandos do Git
+
+git init - > para criar um novo repositório;
+
+git clone  - > para criar uma copia de trabalho em um repositório local;
+
+git add - > para adicionar versionamento de um arquivo;
+
+git status - > para ver o status do arquivo;
+
+git commit - > para confirmar a mudança no arquivo ou confirmar o comando git add que fizemos anteriormente;
+
+git push  - > para enviar os arquivos que foram confirmados com comando git commit ao seu repositório;
